@@ -6,7 +6,7 @@ spring:
       username: guest
       password: guest
 
-foo: foo version 4
+foo: foo version 1
 test: ceshi
 
 eureka:
